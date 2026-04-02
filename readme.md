@@ -2,6 +2,8 @@
 
 This software is meant for personal use only and the repository will not be actively maintained.
 
+## :exclamation: There is an actively maintained fork as [Home Assistant Addon](https://github.com/alexlenk/ambientika-local-control-ha-addon) by [Alex Lenk](https://github.com/alexlenk)
+
 The NodeJS application provides an api compatible interface to the ambientika cloud. The devices can be controlled and monitored locally and optionally connected to native ambientika cloud.
 
 The integration into Home Assistant is done via MQTT.
